@@ -1,0 +1,2 @@
+printf "how are you"
+scanf"ans"

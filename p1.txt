@@ -1,2 +1,4 @@
 printf "how are you"
 scanf"ans"
+printf "how are you1"
+scanf"ans1"
